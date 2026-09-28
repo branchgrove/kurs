@@ -1,0 +1,18 @@
+# Generated reference test data (create with: python scripts/reference.py)
+reference.json
+testdata/reference.json
+
+# Local model weights
+model/
+
+# OS and Editor metadata
+.DS_Store
+*.swp
+*~
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
